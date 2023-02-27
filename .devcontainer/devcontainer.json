@@ -1,6 +1,6 @@
 {
 	"name": "Go",
-	"image": "mcr.microsoft.com/vscode/devcontainers/go:0-1.19",
+	"image": "mcr.microsoft.com/vscode/devcontainers/go:0-1.20",
 	"runArgs": [ "--cap-add=SYS_PTRACE", "--security-opt", "seccomp=unconfined" ],
 
 	// Configure tool-specific properties.
